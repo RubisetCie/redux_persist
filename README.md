@@ -1,10 +1,6 @@
 # redux_persist
 
-Monorepo of `redux_persist`, containing:
-
-* [`redux_persist`](packages/redux_persist)
-* [`redux_persist_flutter`](packages/redux_persist_flutter)
-* [`redux_persist_web`](packages/redux_persist_web)
+Forked alternate version of `redux_persist`, fixing compatibility with Flutter Web.
 
 
 ## Features and bugs
