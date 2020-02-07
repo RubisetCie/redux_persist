@@ -12,3 +12,10 @@ dependencies:
     sdk: "flutter"
   path_provider: "^1.2.0"
   shared_preferences: "^0.5.3"
+  redux_persist: "^0.8.0"
+
+# Used for development
+dependency_overrides:
+  redux_persist:
+    git: git://github.com/RubisetCie/redux_persist
+    path: packages/redux_persist
