@@ -13,4 +13,5 @@ dependencies:
   path_provider: "^1.2.0"
   shared_preferences: "^0.5.3"
   redux_persist:
+    url: git://github.com/RubisetCie/redux_persist
     path: ../redux_persist
